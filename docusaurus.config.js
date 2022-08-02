@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'User-Based Seaport Documentation',
+  title: 'Community Seaport Documentation',
   tagline: 'Start building with Seaport quickly',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'User-Based Seaport Docs',
+        title: 'Community Seaport Docs',
         logo: {
           alt: 'Opensea Logo',
           src: 'img/openseaslogo.png',
