@@ -13,23 +13,24 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Debug quicker',
+    title: 'Learn Seaport Quickly',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        We write out working code snippets and explain some of the pitfalls to help users debug more efficiently.
+        After reading the docs, learn how to implement popular functions and questions.
       </>
     ),
   },
   {
-    title: 'Powered by All',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Constantly Evolving',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Continously updated by anyone who have new tips, questions, or insights
+        Anyone can add, and more problems are being solved and added to the documentation.
       </>
     ),
   },
+
 ];
 
 function Feature({Svg, title, description}) {

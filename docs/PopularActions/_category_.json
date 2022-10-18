@@ -1,0 +1,8 @@
+{
+  "label": "Popular Actions",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "The most important How To's"
+  }
+}

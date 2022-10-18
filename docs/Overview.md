@@ -16,5 +16,3 @@ buying and selling of NFTs and Crypto. Here are its unique qualities:
 - Able to create your own marketplace with Seaport
 - Easy to use *if you read good documentation ;)*
 - Compatible with most languages
-
-## 
