@@ -8,7 +8,7 @@ This page is going to discuss how to buy NFTs either that already exist or throu
 
 ## A) Purchasing Existing Opensea Listings
 
-In order to purchase existing NFT listings through Seaport, there are true important steps.
+In order to purchase existing NFT listings through Seaport, there are a few important steps.
 
 ## Overview
 
@@ -31,8 +31,6 @@ You're going to use the buyer's signature that you just asked for through their 
 
 ```jsx title="Retrieve Listing Order Through Opensea's API" 
 async function getListingOrder(contract_address, token_id) {
-    var contract = req.query.contract;
-    var token_id = req.query.tokenID;
     const options = {
         method: 'GET',
         headers: { Accept: 'application/json', 'X-API-KEY': process.env.API_KEY }
