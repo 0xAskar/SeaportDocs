@@ -1,8 +1,12 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
 # Overview
+
+## What is this documentation?
+This is documentation made by the community, for you and by you! Askar started this because the Seaport documentation provided by Opensea was a bit confusing for certain actions to be done. So, now this is the community edition. If you ever want to add or make edits, go to this [github](https://github.com/0xAskar/SeaportDocs) and make a pull request.
 
 ## What is Seaport?
 
@@ -16,3 +20,5 @@ buying and selling of NFTs and Crypto. Here are its unique qualities:
 - Able to create your own marketplace with Seaport
 - Easy to use *if you read good documentation ;)*
 - Compatible with most languages
+
+
